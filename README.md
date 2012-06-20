@@ -1,4 +1,4 @@
-== Singly Rails API Demo
+# Singly Rails API Demo
 
 This is a basic Rails App that uses the Singly API/OAuth. For more info, check
 http://dev.singly.com
