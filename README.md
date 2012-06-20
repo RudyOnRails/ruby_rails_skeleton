@@ -5,4 +5,4 @@ API. For more info, see https://dev.singly.com.
 
 # Contributors
 
-Thanks go to Adam Derewecki (@derwiki) for the initial implementation.
+Thanks go to [Adam Derewecki](https://github.com/derwiki) for the initial implementation.
