@@ -20,4 +20,11 @@ private
   def profiles_url
     "#{SINGLY_API_BASE}/profiles"
   end
+
+  def auth_url(service)
+    url = "/auth/singly?service=#{service}"
+    url << "&access_token=#{access_token}" if access_token
+    url
+  end
+  helper_method :auth_url
 end
