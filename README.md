@@ -1,7 +1,7 @@
 # Singly Rails Skeleton
 
 This is a basic Rails App that implements an OAuth2 client against the Singly
-API. For more info, see https://dev.singly.com.
+API. For more info, see https://singly.com and https://singly.com/docs.
 
 # Contributors
 
